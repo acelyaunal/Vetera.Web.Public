@@ -1,5 +1,4 @@
 
-```markdown
 <h1 align="center">
   <img src="./public/logo-vetera.svg" width="60" height="60" alt="Vetera Logo" />
   <br>
@@ -180,4 +179,4 @@ Tasarım, metinler ve görseller **Açelya Ünal**’a aittir.
   <br>
   <sub>Made with 💖 and Tailwind by Açelya Ünal</sub>
 </p>
-```
+
