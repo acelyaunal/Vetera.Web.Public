@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  <img src="./public/logo-vetera.svg" width="60" height="60" alt="Vetera Logo" />
+  <img src="./docs/media/logo-vetera.png" width="60" height="60" alt="Vetera Logo" />
   <br>
   🐾 Vetera.Web — Veteriner Kliniği Web Sitesi
 </h1>
